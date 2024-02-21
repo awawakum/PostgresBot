@@ -1,0 +1,2 @@
+# PostgresBot
+Postgres aiogram bot
